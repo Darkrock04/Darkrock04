@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">connect with me :</p>
+<h3 align="left">connect with me :</h3>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Languages and Tools:</p>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
