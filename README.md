@@ -41,3 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Darkrock04/Darkrock04/output/snake.svg" alt="Snake animation" />
+
+###
